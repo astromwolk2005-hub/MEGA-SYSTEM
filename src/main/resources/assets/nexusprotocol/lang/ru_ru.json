@@ -1,0 +1,10 @@
+{
+  "itemGroup.nexusprotocol": "NEXUS: Орбитальный Протокол",
+  "item.nexusprotocol.orbital_designator": "Целеуказатель Орбитального Лазера",
+  "item.nexusprotocol.gravity_gun": "Гравитационная Пушка",
+  "item.nexusprotocol.singularity_grenade": "Граната Сингулярности",
+  "item.nexusprotocol.station_teleporter": "Телепортер Орбитальной Станции",
+  "category.nexusprotocol": "NEXUS: Кибер-Ядро",
+  "key.nexusprotocol.mode": "Сменить режим Кибер-Ядра [R]",
+  "key.nexusprotocol.pulse": "Активировать Импульс [G]"
+}

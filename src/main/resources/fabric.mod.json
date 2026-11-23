@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "nexusprotocol",
+  "version": "${version}",
+  "name": "NEXUS: Orbital Protocol",
+  "description": "Орбитальный лазер, Гравитационная пушка, Граната Сингулярности, Кибер-Ядро с HUD и карманное измерение Орбитальной Станции.",
+  "authors": ["Gemini"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.nexusprotocol.NexusMod"
+    ],
+    "client": [
+      "com.nexusprotocol.client.NexusClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

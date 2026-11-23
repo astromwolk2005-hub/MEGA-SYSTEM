@@ -1,0 +1,10 @@
+{
+  "itemGroup.nexusprotocol": "NEXUS: Orbital Protocol",
+  "item.nexusprotocol.orbital_designator": "Orbital Laser Designator",
+  "item.nexusprotocol.gravity_gun": "Zero-Point Gravity Gun",
+  "item.nexusprotocol.singularity_grenade": "Singularity Grenade",
+  "item.nexusprotocol.station_teleporter": "Orbital Station Teleporter",
+  "category.nexusprotocol": "NEXUS: Cyber-Core",
+  "key.nexusprotocol.mode": "Cycle Cyber-Core Mode [R]",
+  "key.nexusprotocol.pulse": "Trigger Cyber-Core Pulse [G]"
+}

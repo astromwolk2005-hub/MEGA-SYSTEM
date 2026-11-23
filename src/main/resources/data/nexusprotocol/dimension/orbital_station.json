@@ -1,0 +1,11 @@
+{
+  "type": "nexusprotocol:orbital_station",
+  "generator": {
+    "type": "minecraft:flat",
+    "settings": {
+      "biome": "minecraft:the_void",
+      "layers": [],
+      "structure_overrides": []
+    }
+  }
+}
